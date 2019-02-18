@@ -1,4 +1,4 @@
-package fr.perioline.server.config;
+package fr.perioline.config.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
